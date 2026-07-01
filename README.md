@@ -167,13 +167,13 @@ All KPI cards and visualizations respond dynamically to the selected filters, en
 ## 📷 Dashboard Preview
 
 ### Sales Performance Dashboard
-![Sales Performance Dashboard](Sales Performance Dashboard.png)
+![Sales Performance Dashboard](Sales%20Performance%20Dashboard.png)
 
 ### Product Analysis Dashboard
-![Product Analysis Dashboard](Product Analysis Dashboard.png)
+![Product Analysis Dashboard](Product%20Analysis%20Dashboard.png)
 
 ### Customer & Regional Analysis Dashboard
-![Customer & Regional Analysis Dashboard](Customer and Regional Dashboard.png)
+![Customer & Regional Analysis Dashboard](Customer%20and%20Regional%20Dashboard.png)
 
 ---
 
